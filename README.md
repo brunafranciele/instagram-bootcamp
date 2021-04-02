@@ -8,5 +8,4 @@ O layout é responsivo, podendo ser utilizado tanto em dispositivos móveis, com
 ## Habilidades
   - HTML5
   - CSS3
-  - JavaScript
   - Flexbox
